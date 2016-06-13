@@ -1,2 +1,2 @@
-# design-assets
-Logos etc
+# Doteveryone design assets
+
